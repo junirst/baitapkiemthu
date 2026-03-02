@@ -101,3 +101,18 @@ BUILD SUCCESS
 
 - **Họ tên:** Phạm Quang Đạt
 - **GitHub:** [junirst](https://github.com/junirst/baitapkiemthu.git)
+
+Bài thực hành 3 :
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/4ba14dc2-880d-4688-b225-19890de8db84" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3a552b30-8c10-4153-a473-dfb6995afc4c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9c85b8b8-512b-417e-931a-98dd77d799c8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/3e7d5a05-1f72-4adf-9e87-cf8e8304ab45" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/e3609b44-1e62-4a52-bd83-251ea1f2a49d" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c13bd8b2-11cd-44dd-9c7e-877a1998be5c" />
+
+Bài thực hành 4 :
+
+
+
+
+
